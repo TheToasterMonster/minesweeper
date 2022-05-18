@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper client made in Unity (2020.3.29f1).
+Minesweeper client made in Unity (2020.3.29f1). Pixel art made using Krita.
 
 ## Controls
 - Left-click to reveal a square
